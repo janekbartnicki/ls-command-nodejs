@@ -13,7 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bin" : {
+  "bin": {
     "nls": "index.js"
   },
   "bugs": {
