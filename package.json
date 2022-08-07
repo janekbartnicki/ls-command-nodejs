@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/janekbartnicki/ls-command-nodejs/issues"
   },
-  "homepage": "https://github.com/janekbartnicki/ls-command-nodejs#readme"
+  "homepage": "https://github.com/janekbartnicki/ls-command-nodejs#readme",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
 }
